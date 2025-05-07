@@ -1,32 +1,19 @@
-# 👋 Olá, eu sou o Gabriel!
+# 👋 Eai gurizada, tranquilo? Meu nome é Gabriel!
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (início da jornada!)
-- 🖥️ Apaixonado por games no PC (ex-jogador raiz de Path of Exile 🎯)
-- 🥋 Faixa branca no Jiu-Jitsu, mas com mentalidade de faixa preta 💪
-- 🌱 Atualmente aprendendo programação do zero e dando meus primeiros passos com HTML, CSS e JavaScript (em breve mais!)
-
----
-
-### 🛠️ Minhas metas em 2025:
-- [ ] Aprender lógica de programação
-- [ ] Criar meu primeiro site simples
-- [ ] Fazer projetos para praticar (e publicar aqui!)
-- [ ] Contribuir com um projeto open source
-- [ ] Evoluir tanto no BJJ quanto na programação 👊
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (primeiro semestre, entendo nada kkk)
+- 🖥️ Gamer em qualquer minuto livre (Tarkov e Path of Exile sao meus favoritos atualmente)
+- 🥋 Faixa branca no Jiu-Jitsu, sim pago pra apanhar todo dia💪
+- 🌱 Tentando aprender a usar o Github, Notion e conseguir ter um bom desenvolvimento no curso
 
 ---
 
 ### 📫 Como me encontrar:
-- Discord: gabrielbjj#2025
-- Email: [seu-email-aqui]
-- Em breve: meu portfólio online 🚀
 
+- Discord: superninjabjj
+- Email: gabriel.rteixeira99@gmail.com
+- Steam: em breve
 ---
 
 ### 💬 Sobre mim:
-Gosto de pensar que aprender programação é como treinar Jiu-Jitsu: todo mundo começa apanhando um pouco, mas com disciplina, cada dia é uma vitória. Espero compartilhar minha evolução por aqui e, quem sabe, inspirar outros que estão começando também!
+Vai ser dificil conciliar o tempo pra trabalho, estudo, academia, bjj e ainda jogar.
 
----
-
-### 🎮 Fun Fact:
-Se você também joga ARPGs ou curte buildar personagens, já temos algo em comum! 😉
